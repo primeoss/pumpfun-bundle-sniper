@@ -2,6 +2,8 @@
 
 Create and bundle snipe your own token using JITO in the same block with 27 wallets. This fast and easy-to-use bot features a friendly UI that allows you to perform multiple tasks effortlessly.
 
+![Pumpfun Bundle Sniper](https://github.com/primeoss/pumpfun-bundle-sniper/blob/main/pumpfun-bundle-sniper.png)
+
 ## Why Choose This?
 
 This lightweight and powerful tool is designed for bundle sniping using multiple wallets in the same block, providing the fastest and easiest performance. 
