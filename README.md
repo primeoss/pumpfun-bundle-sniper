@@ -24,5 +24,5 @@ This lightweight and powerful tool is designed for bundle sniping using multiple
 
 If you are interested in purchasing the tool or have a custom project in mind, please feel free to contact us:
 
-- **Telegram:** [primeoss](https://t.me/primeoss)
-- **Email:** [prime@oss.one](mailto:prime@oss.one)
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
