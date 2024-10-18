@@ -24,5 +24,5 @@ This lightweight and powerful tool is designed for bundle sniping using multiple
 
 If you are interested in purchasing the tool or have a custom project in mind, please feel free to contact us:
 
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
